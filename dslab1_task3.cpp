@@ -1,3 +1,4 @@
+//Extract Odd Numbers From An Array Using Two Ranges 
 #include<iostream>
 using namespace std;
 
