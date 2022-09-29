@@ -12,8 +12,7 @@ int main()
     {
         cout<<arr1[i]<<"\t";
     }
-    cout<<endl;
-        
+    cout<<endl;  
     cout<<"Reverse Array: ";
     for(int i=12; i>=0; i--)
     {
